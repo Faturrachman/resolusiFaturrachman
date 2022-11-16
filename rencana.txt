@@ -1,0 +1,8 @@
+Rencana kedepan saya untuk membuat web portofolio :
+- belajar html
+- beljar css
+- belajar javascript
+- belajar php
+- github
+- git
+- framework-framework
